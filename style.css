@@ -1,3 +1,5 @@
 body {
-    background-image: url("/img/learnOrigamiLogo.png")
+    background: url("/img/learnOrigamiLogo.png") 
+    background-repeat: no-reapeat;
+    bakground-size: auto;
 }
